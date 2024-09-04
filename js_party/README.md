@@ -9,4 +9,3 @@ For example:
 
 
 Students may find it helpful to move their VS Code terminal to the right of the file to better see the logged results.
-
