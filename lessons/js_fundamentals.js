@@ -1,11 +1,15 @@
 /*
-JS Variables & Data Types Examples
+JS Fundamentals Lesson Scratchpad
 
 To run the code in this file, run the command:
       node lessons/js_fundamentals.js
 */ 
 console.log("js_fundamentals.js is running")
 
+
+/*
+JS Variables & Data Types Examples
+*/ 
 
 var firstName = 'Ben';
 var age = 26;
@@ -34,11 +38,7 @@ let jobTitle;
 JS Concatenation & Interpolation
 */ 
 
-// var quantity = 3;
-// var mythicalCreature = " unicorns";
-// var creatureCount = quantity + mythicalCreature;
 
-// console.log(creatureCount)
 
 
 
@@ -96,14 +96,3 @@ function evaluateSleep(hoursOfSleep) {
 JS For Loops
 */ 
 
-let points = [7, 3, 0, 14];
-
-function calculateTotalPoints() {
-  let counter = 0
-  for (let i = 0; i < points.length; i++) {
-    counter += points[i]
-  }
-  return counter
-}
-
-// console.log(calculateTotalPoints())
