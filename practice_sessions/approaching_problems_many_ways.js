@@ -2,7 +2,7 @@
 JS Approaching Problems Many Ways Scratchpad
 
 To run the code in this file, run the command:
-  node lessons/approaching_problems_many_ways.js
+  node practice_sessions/approaching_problems_many_ways.js
 */ 
 console.log("approaching_problems_many_ways.js is running")
 
