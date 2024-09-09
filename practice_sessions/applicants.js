@@ -94,7 +94,7 @@ Write a function sortApplicants that takes in 2 arguments: an array of applicant
   ]
 */
 
-// Example 2: sortApplicants(applicants, 'yearsExperience')
+// Example 2: sortApplicants(applicants, 'yearsEducation')
 /* Expected Result (Open with dropdown)
     [
       {
