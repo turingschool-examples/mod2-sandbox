@@ -1,5 +1,5 @@
 /*
-Applicants - JS Iteration Station practive
+Applicants - JS Iteration Station practice
 
 To run the code in this file, run the command:
   node practice_sessions/applicants.js
