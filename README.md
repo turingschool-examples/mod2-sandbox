@@ -1,4 +1,4 @@
-# se-mod2-exercises
+# Mod 2 Sandbox
 
 This will be our Mod 2 "Big Repo" that holds various front-end practice exercises that we'll use through the module.
 
