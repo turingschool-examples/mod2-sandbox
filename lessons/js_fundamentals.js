@@ -27,29 +27,8 @@ let favoriteFoods = ['pizza', 'blueberries', 'ice cream', 'sushi']
 let partnerName = null;
 let jobTitle;
 
-// console.log(jobTitle)
 
 
-
-
-
-
-/*
-JS Concatenation & Interpolation
-*/ 
-
-
-
-
-
-
-
-
-
-
-/*
-JS Functions
-*/ 
 
 
 
@@ -76,11 +55,7 @@ function identifyCookie(cookie) {
 // identifyCookie("sugar")
 
 function evaluateSleep(hoursOfSleep) {  
-  if (hoursOfSleep < 6) {
-    console.log('I am groggy.');
-  } else {
-    console.log('I feel fantastic!');
-  }
+
 }
 
 // evaluateSleep(8)
@@ -92,7 +67,4 @@ function evaluateSleep(hoursOfSleep) {
 
 
 
-/*
-JS For Loops
-*/ 
 
