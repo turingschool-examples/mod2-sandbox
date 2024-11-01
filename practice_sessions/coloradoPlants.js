@@ -1,3 +1,10 @@
+/*
+Colorado Plants - JS Iteration Station practice
+
+To run the code in this file, run the command:
+  node practice_sessions/coloradoPlants.js
+*/ 
+console.log("coloradoPlants.js is running")
 
 
 const coloradoPlants = [
