@@ -80,7 +80,55 @@ const coloradoPlants = [
   },
 ];
 
-/* 
+
+/* LEVEL 1
+Write a function that creates a sentence with specified data for each plant based on the argument being passed in. The function should return all the sentences in an array.
+
+e.g. 
+  stateData('habitat') 
+    expected result ==> 
+      [
+        'The Colorado Blue Columbine has a habitat of meadows.',
+        'The Aspen Tree has a habitat of forests.',
+        'The Columbian Lily has a habitat of moutains.',
+        'The Rocky Mountain Bristlecone Pine has a habitat of mountains.',
+        'The Alpine Forget-Me-Not has a habitat of meadows.',
+        'The Indian Paintbrush has a habitat of grasslands.',
+        'The Engelmann Spruce has a habitat of forests.',
+        'The Fireweed has a habitat of meadows.',
+        'The Blue Spruce has a habitat of forests.',
+        'The Scarlet Gilia has a habitat of mountains.'
+      ]
+  
+e.g. 
+  stateData('bloomingSeason') 
+    expected result ==> 
+      [
+        'The Colorado Blue Columbine has a bloomingSeason of Spring to Early Summer.',
+        'The Aspen Tree has a bloomingSeason of Spring.',
+        'The Columbian Lily has a bloomingSeason of Late Spring to Early Summer.',
+        'The Rocky Mountain Bristlecone Pine has a bloomingSeason of Spring.',
+        'The Alpine Forget-Me-Not has a bloomingSeason of Summer.',
+        'The Indian Paintbrush has a bloomingSeason of Spring to Summer.',
+        'The Engelmann Spruce has a bloomingSeason of Spring.',
+        'The Fireweed has a bloomingSeason of Summer.',
+        'The Blue Spruce has a bloomingSeason of Spring.',
+        'The Scarlet Gilia has a bloomingSeason of Late Spring to Summer.'
+      ]
+
+Start with:
+- What part(s) of the data do I need to access?  How will I access it?
+  - Has this changed from part 1?
+- What are the steps that I need to take to achieve this larger goal?
+  - Do I need to change the logic in part one?  Or is there just an additional step(s) to add.  Where/when do I include that added step?
+
+As you work:
+- At any point you should be able to explain what you're trying to do with any given line of code you're writing.
+- Think through the code you're writing iteration by iteration. What data is it looking at each iteration, what do you want to do while it's look at that piece of data?
+
+*/
+
+/* LEVEL 2
 Write a function that creates an object which organizes the plants by habitat.
 
 organizeByHabitat() // expected result ==> 
