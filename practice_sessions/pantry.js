@@ -2,9 +2,9 @@
 Pair Practice 3 - Pantry
 
 To run the code in this file, run the command:
-  node practice_sessions/pair_practice_3_pantry.js
+  node practice_sessions/pantry.js
 */ 
-console.log("pair_practice_3_pantry.js is running")
+console.log("pantry.js is running")
 
 
 

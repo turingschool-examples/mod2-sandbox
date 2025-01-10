@@ -2,9 +2,9 @@
 Pair Practice 1 - Sales Data 
 
 To run the code in this file, run the command:
-  node practice_sessions/pair_practice_1_sales.js
+  node practice_sessions/sales.js
 */ 
-console.log("pair_practice_1_sales.js is running")
+console.log("sales.js is running")
 
 
 const salesData = {

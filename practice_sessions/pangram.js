@@ -2,9 +2,9 @@
 Pair Practice 2 - Pangram
 
 To run the code in this file, run the command:
-  node practice_sessions/pair_practice_2_pangram.js
+  node practice_sessions/pangram.js
 */ 
-console.log("pair_practice_2_pangram.js is running")
+console.log("pangram.js is running")
 
 
 //Data
