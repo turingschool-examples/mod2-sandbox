@@ -884,7 +884,7 @@ const fourteeners = {
 
 
 
-// Level 3
+// Level 4
 
 //Write a function called findInfo that takes in a range, a specific peak and a specified datapoint.  The function should return a string that states what total is achieved if hiking all routes for that peak, based on the specified datapoint.
 
